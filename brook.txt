@@ -1,1 +1,1 @@
-code is 
+git is the version control
