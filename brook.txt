@@ -1,1 +1,5 @@
+
 work in progess
+
+git is the version control
+
